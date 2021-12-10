@@ -3,7 +3,6 @@
 
   <head>
     <meta charset="UTF-8">
-    <title>Private Collection Game Collection</title>
   </head>
 
   <body>
